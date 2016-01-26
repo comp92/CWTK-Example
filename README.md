@@ -1,3 +1,3 @@
-#CWTK Example Program
+#DWTK Example Program
 
-Shows off how to use CWTK.
+Shows off how to use DWTK.
